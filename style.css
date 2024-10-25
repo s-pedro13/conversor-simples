@@ -29,7 +29,7 @@ body {
     gap: 10px; /* Aumenta o espaço entre o label e o input */
    }
    input[type="number"], select {
-    width: 100%;
+    width: 95%;
     padding: 8px;
     border: 1px solid #ced4da;
     border-radius: 5px;
@@ -63,6 +63,5 @@ body {
     color: #555;
     margin-bottom: 5px;
     text-align: left; /* Alinha os labels à esquerda */
-    width: 100%; /* Garante que ocupem toda a largura do container */
+    width: 100%;
    }
-   
